@@ -10,6 +10,6 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "lodash": "4.17.20"
+    "@fakescope/definitely-not-real": "1.0.0"
   }
 }
